@@ -54,21 +54,6 @@ This project focuses on the analysis and classification of tweets based on senti
 
 ---
 
-## Visualizations
-
-1. **Sentiment Label Distribution**:
-   ![Sentiment Distribution](image_path_here)
-
-2. **Top 10 Companies by Tweet Volume**:
-   ![Top Companies](image_path_here)
-
-3. **Tweet Length Distribution**:
-   ![Tweet Length](image_path_here)
-
-4. **Word Cloud**:
-   ![Word Cloud](image_path_here)
-
----
 
 ## Features
 
